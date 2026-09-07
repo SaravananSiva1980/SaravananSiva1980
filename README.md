@@ -1,4 +1,4 @@
-# Hi, I'm a Data Engineer 👋
+# Hi, I'm a Senior Data Engineer 👋
 
 Building scalable data platforms and AI-powered data solutions on **Azure Databricks** and **Snowflake** — with a strong foundation in enterprise BI and application development.
 
