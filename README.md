@@ -37,7 +37,7 @@ My career has evolved from Application Development and Microsoft BI to Hadoop Ec
 | Domain | Experience |
 |----------|----------|
 | 📡 Telecom | 12 Years |
-| 🏦 Banking | 2 Years |
+| 🏦 Banking | 3 Years |
 | 🏭 Manufacturing & Supply Chain | 6 Years |
 
 ---
